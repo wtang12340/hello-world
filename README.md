@@ -1,1 +1,2 @@
-# hello-world
+# Pratice repository for DWA 
+
